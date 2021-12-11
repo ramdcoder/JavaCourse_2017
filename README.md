@@ -7,3 +7,7 @@ Here you will learn basic concepts of the Java language and programming generall
 In this GitHub repository you can find all the needed information for the current course:
   1) Code Tab has folders for each lecture, wherefrom you can download code samples and exercises.
   2) Wiki Tab has pages with the lecture description, theory, instructions and exercises, that are needed for the proper lesson. In case of missing the class you can easylly read the manual and try out at home yourself. 
+
+Reference - [Arrays in java](https://www.flowerbrackets.com/arrays-in-java/)
+
+Reference - [ArrayList in java](https://www.flowerbrackets.com/arraylist-in-java/)
